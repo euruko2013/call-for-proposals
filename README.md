@@ -1,4 +1,4 @@
-# EuRuKo 2012 Call For Proposals
+# EuRuKo 2013 Call For Proposals
 
 So, you are interested in giving a talk at the most awesome Ruby
 conference in Europe?
