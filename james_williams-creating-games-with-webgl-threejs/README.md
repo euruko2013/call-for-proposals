@@ -1,10 +1,14 @@
 # Creating Games with WebGL and Three.js   
 
 My talk description
-James Williams is a developer based in Silicon Valley and frequent
-conference speaker and is the author of book "Learning HTML5 Game
-Programming" for Addison-Wesley. He blogs at
-http://jameswilliams.be/blog and tweets as @ecspike.
+There was once a time where gaming in the browser meant Flash. That time
+is no more. Based on OpenGL ES, WebGL brings the 3D world to the browser
+without any plugins. Three.js, a scenegraph library for WebGL, allows us
+to make creating 3D web apps easier by abstracting away many of the
+low-level API calls.
+
+In this session, youâll learn the basics of game programming,
+WebGL, and how to use Three.js to create WebGL applications.
 
 
 ## My name
