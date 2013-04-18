@@ -1,6 +1,7 @@
 # Creating Games with WebGL and Three.js   
 
 My talk description
+
 There was once a time where gaming in the browser meant Flash. That time
 is no more. Based on OpenGL ES, WebGL brings the 3D world to the browser
 without any plugins. Three.js, a scenegraph library for WebGL, allows us
